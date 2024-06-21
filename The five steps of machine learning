@@ -1,0 +1,38 @@
+Major steps in the machine learning process
+Step 1 : Define the problem
+Step 2: Build the Dataset
+Step 3: Train the Model 
+Step 4: Evaluate the model 
+Step 5: Use the Model 
+
+
+DEFINE THE PROBLEM 
+How do you start a machine learning task?
+To get started, it is important to follow these two important steps
+
+Step 1: Define a very specific task
+Think back to the snow cone sales example. Now imagine that you own a frozen treats store and you sell snow cones along with many other products. You wonder, "How do I increase sales?" It's a valid question, but it's the opposite of a very specific task. The following examples demonstrate how a machine learning practitioner might attempt to answer that question.
+
+Question: Does adding a $1.00 charge for sprinkles on a hot fudge sundae increase the sales of hot fudge sundaes?
+Question: Does adding a $0.50 charge for organic flavors in your snow cone increase the sales of snow cones?
+Step 2: Identify the machine learning task we might use to solve this problem
+
+This helps you better understand the data you need for a project.
+What exactly is a machine learning task?
+All model training algorithms, and the models themselves, take data as their input. Their outputs can be very different and are classified into a few different groups, based on the task they are designed to solve.
+Often, we use the kind of data required to train a model as part of defining a machine learning task.
+In this lesson, we will focus on two common machine learning tasks:
+
+Supervised learning
+Unsupervised learning
+
+
+
+
+Clustering is an unsupervised learning task that helps to determine if there are any naturally occurring groupings in the data.
+A categorical label has a discrete set of possible values, such as "is a cat" and "is not a cat."
+A continuous (regression) label does not have a discrete set of possible values, which means there are potentially an unlimited number of possibilities.
+Discrete is a term taken from statistics referring to an outcome that takes only a finite number of values (such as days of the week).
+A label refers to data that already contains the solution.
+Using unlabeled data means you don't need to provide the model with any kind of label or solution while the model is being trained.
+
