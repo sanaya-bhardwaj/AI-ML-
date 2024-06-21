@@ -306,3 +306,5 @@ Regression: A common task in supervised machine learning used to understand the 
 Continuous: Floating-point values with an infinite range of possible values. This is the opposite of categorical or discrete values, which take on a limited number of possible values.
 Hyperplane: A mathematical term for a surface that contains more than two planes
 Plane: A mathematical term for a flat surface (like a piece of paper) on which two points can be joined by drawing a straight line.
+
+3.2 Using ML to predict a book's genre (you can ezplore this example too!)
