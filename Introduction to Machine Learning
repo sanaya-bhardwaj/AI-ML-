@@ -82,3 +82,16 @@ Imagine that you work in higher education and you want to better understand the 
 Student enrollment vs Tuition cost
 Using the same linear regression model (indicated by the solid line), you can see that the number of people attending college does go down as the cost increases.
 Both examples showcase that a model is a generic program made specific by the data used to train it.
+
+
+Training and using a model
+How are model training algorithms used to train a model?
+In the preceding section, we talked about two key pieces of information: a model and data. In this section, we show you how those two pieces of information are used to create a trained model. This process is called model training.
+
+Model training algorithms work through an interactive process
+Let's revisit our clay teapot analogy. We've gotten our piece of clay, and now we want to make a teapot. Let's look at the algorithm for molding clay and how it resembles a machine learning algorithm:
+
+Think about the changes that need to be made. The first thing you would do is inspect the raw clay and think about what changes can be made to make it look more like a teapot. Similarly, a model training algorithm uses the model to process data and then compares the results against some end goal, such as our clay teapot.
+Make those changes. Now, you mold the clay to make it look more like a teapot. Similarly, a model training algorithm gently nudges specific parts of the model in a direction that brings the model closer to achieving the goal.
+Repeat. By iterating these steps over and over, you get closer and closer to what you want, until you determine that you’re close enough and then you can stop.
+Clay
